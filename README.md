@@ -1,2 +1,5 @@
-# Calculadora
-Calculadora feita com HTML, CSS e Javascript.
+# Calculadora (WIP)
+Calculadora feita em 
+:check: HTML
+:check: CSS
+Javascript
