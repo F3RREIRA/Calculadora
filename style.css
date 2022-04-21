@@ -1,6 +1,6 @@
-url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&display=swap');
+url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet');
 
-* { padding: 0; margin: 0; outline: none; font-family: 'Montserrat', sans-serif; font-weight: 500; font-size: 22px;
+* { padding: 0; margin: 0; outline: none; font-family: 'Bebas Neue', cursive; font-weight: 500; font-size: 30px;
 }
 
 body { display: flex; justify-content: center; align-items: center; height: 100vh; background: #000000;
@@ -9,7 +9,7 @@ body { display: flex; justify-content: center; align-items: center; height: 100v
 input { margin: 1px; border: none; border-radius: 2px;
 }
 
-input[type=text] { width: calc(100% - 4px); height: 40px;
+input[type=text] { width: calc(100% - 4px); height: 60px;
 }
 
 input[type=button] { width: 100px; height: 50px; transition: ease 0.2s; cursor: pointer;
